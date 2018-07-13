@@ -1,0 +1,12 @@
+F:\visualStudioproject\Fluent API\Fluent API\bin\Debug\Fluent API.exe.config
+F:\visualStudioproject\Fluent API\Fluent API\bin\Debug\Fluent API.exe
+F:\visualStudioproject\Fluent API\Fluent API\bin\Debug\Fluent API.pdb
+F:\visualStudioproject\Fluent API\Fluent API\bin\Debug\EntityFramework.dll
+F:\visualStudioproject\Fluent API\Fluent API\bin\Debug\EntityFramework.SqlServer.dll
+F:\visualStudioproject\Fluent API\Fluent API\bin\Debug\EntityFramework.xml
+F:\visualStudioproject\Fluent API\Fluent API\bin\Debug\EntityFramework.SqlServer.xml
+F:\visualStudioproject\Fluent API\Fluent API\obj\Debug\Fluent API.csprojAssemblyReference.cache
+F:\visualStudioproject\Fluent API\Fluent API\obj\Debug\Fluent API.csproj.CoreCompileInputs.cache
+F:\visualStudioproject\Fluent API\Fluent API\obj\Debug\Fluent API.csproj.CopyComplete
+F:\visualStudioproject\Fluent API\Fluent API\obj\Debug\Fluent API.exe
+F:\visualStudioproject\Fluent API\Fluent API\obj\Debug\Fluent API.pdb
