@@ -10,3 +10,15 @@ F:\visualStudioproject\EF\Discriminator\Discriminator\obj\Debug\Discriminator.cs
 F:\visualStudioproject\EF\Discriminator\Discriminator\obj\Debug\Discriminator.csproj.CopyComplete
 F:\visualStudioproject\EF\Discriminator\Discriminator\obj\Debug\Discriminator.exe
 F:\visualStudioproject\EF\Discriminator\Discriminator\obj\Debug\Discriminator.pdb
+F:\visualStudioproject\EF\EF\Discriminator\Discriminator\bin\Debug\Discriminator.exe.config
+F:\visualStudioproject\EF\EF\Discriminator\Discriminator\bin\Debug\Discriminator.exe
+F:\visualStudioproject\EF\EF\Discriminator\Discriminator\bin\Debug\Discriminator.pdb
+F:\visualStudioproject\EF\EF\Discriminator\Discriminator\bin\Debug\EntityFramework.dll
+F:\visualStudioproject\EF\EF\Discriminator\Discriminator\bin\Debug\EntityFramework.SqlServer.dll
+F:\visualStudioproject\EF\EF\Discriminator\Discriminator\bin\Debug\EntityFramework.xml
+F:\visualStudioproject\EF\EF\Discriminator\Discriminator\bin\Debug\EntityFramework.SqlServer.xml
+F:\visualStudioproject\EF\EF\Discriminator\Discriminator\obj\Debug\Discriminator.csprojAssemblyReference.cache
+F:\visualStudioproject\EF\EF\Discriminator\Discriminator\obj\Debug\Discriminator.csproj.CoreCompileInputs.cache
+F:\visualStudioproject\EF\EF\Discriminator\Discriminator\obj\Debug\Discriminator.csproj.CopyComplete
+F:\visualStudioproject\EF\EF\Discriminator\Discriminator\obj\Debug\Discriminator.exe
+F:\visualStudioproject\EF\EF\Discriminator\Discriminator\obj\Debug\Discriminator.pdb

@@ -50,6 +50,8 @@
   <ItemGroup>
     <Compile Include="DAL\EfDbContext.cs" />
     <Compile Include="Model\BillingDetail.cs" />
+    <Compile Include="Model\Test_PriKey.cs" />
+    <Compile Include="Model\User.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
