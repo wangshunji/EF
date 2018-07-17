@@ -22,3 +22,7 @@ F:\visualStudioproject\EF\EF\Discriminator\Discriminator\obj\Debug\Discriminator
 F:\visualStudioproject\EF\EF\Discriminator\Discriminator\obj\Debug\Discriminator.csproj.CopyComplete
 F:\visualStudioproject\EF\EF\Discriminator\Discriminator\obj\Debug\Discriminator.exe
 F:\visualStudioproject\EF\EF\Discriminator\Discriminator\obj\Debug\Discriminator.pdb
+F:\visualStudioproject\EF\EF\Discriminator\Discriminator\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\visualStudioproject\EF\EF\Discriminator\Discriminator\bin\Debug\Newtonsoft.Json.dll
+F:\visualStudioproject\EF\EF\Discriminator\Discriminator\bin\Debug\Newtonsoft.Json.xml
+F:\visualStudioproject\EF\EF\Discriminator\Discriminator\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
